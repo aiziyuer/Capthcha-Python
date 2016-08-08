@@ -1,4 +1,4 @@
-#!/Users/lc/Dropbox/Github/Capthcha-Python/ENV/bin/python
+#!/Users/lc/Dropbox/Github/Capthcha-Python/.mac_env/bin/python
 
 import sys
 import getopt
